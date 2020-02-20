@@ -1,0 +1,1 @@
+IMDB-adjacent Movie database with Django and Graphene.
